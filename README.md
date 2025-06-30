@@ -38,5 +38,22 @@
     <img align="right" src="https://cdn.discordapp.com/attachments/1042065800468643922/1389063848581140550/ezgif-5c65de14e36c8a.gif?ex=68634205&is=6861f085&hm=ec60d8ca161e1cc5cbc904779c8aaf135b9727b930dfffc36c34c39268249ba3&" width="180">
 </p>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunoguerra1/nunoguerra1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunoguerra1/nunoguerra1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nunoguerra1/nunoguerra1/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
