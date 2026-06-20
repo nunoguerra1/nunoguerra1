@@ -66,6 +66,13 @@
 <h3 align="center">⏱️ Estatísticas de Código</h3>
 <div align="center">
 <!--START_SECTION:waka-->
+
+```txt
+From: 12 June 2026 - To: 19 June 2026
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </div>
 
