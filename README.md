@@ -61,6 +61,14 @@
   </tr>
 </table>
 
+<br>
+
+<h3 align="center">⏱️ Estatísticas de Código</h3>
+<div align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</div>
+
 <br><br>
 
 <h3 align="center">📇 Connect</h3>
