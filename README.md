@@ -1,140 +1,86 @@
-# 👨‍💻 <a href="https://www.linkedin.com/in/nunomguerra/">Nuno Guerra<a/>
-
-**`Desenvolvedor Frontend`**
-
-Me chamo Nuno Guerra, tenho 20 anos e sou do interior de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas pela UTFPR e atuo como assessor de Desenvolvimento Front-end na Unect Jr. Sou apaixonado por tecnologia e pelo movimento empresa júnior.
-
-<div>
-  <a href = "mailto:nuno1assis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nunomguerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href ="https://t.me/nunoguerra1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=FBC359,73A642,4B848A&height=220&section=header&text=Nuno%20Guerra&fontSize=65&fontAlign=50&fontAlignY=40&desc=Gerente%20de%20Desenvolvimento%20%40%20Unect%20Jr.&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="Banner Nuno Guerra" />
 </div>
 
----
+<br>
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+  <img src="https://img.shields.io/github/followers/nunoguerra1?style=flat-square&color=FBC359&labelColor=1A1A1A" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/nunoguerra1?style=flat-square&color=73A642&labelColor=1A1A1A" alt="Stars" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.shields.io/badge/Trophies-4B848A?style=flat-square&logo=github&labelColor=1A1A1A" alt="Trophies" /></a>
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJS" 
-    title="NodeJS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Postgre" 
-    title="Postgre"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<br><br>
 
-<br/>
-<br/>
+<h3 align="center">🏄‍♂️ Conheça um pouco sobre mim</h3>
+<table style="border: none; width: 100%;">
+  <tr style="border: none;">
+    <td width="25%" align="center" valign="middle" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" width="110" alt="Wave" />
+    </td>
+    <td width="75%" valign="middle" style="border: none;">
+      <p>Tenho 20 anos, sou do interior de SP e estudo <b>Análise e Desenvolvimento de Sistemas</b> na UTFPR.</p>
+      <p>Atualmente atuo como <b>Gerente de Desenvolvimento na Unect Jr.</b> 🚀</p>
+      <p>Sou movido a desafios, tecnologia e tenho um amor incondicional pelo Movimento Empresa Júnior. Quando não estou revisando código, provavelmente estou arquitetando a próxima solução.</p>
+    </td>
+  </tr>
+</table>
 
-  ##
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunoguerra1/nunoguerra1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunoguerra1/nunoguerra1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nunoguerra1/nunoguerra1/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <a href="https://open.spotify.com/user/31i3wmxfesjoryv375vpt5txbmoq">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i3wmxfesjoryv375vpt5txbmoq&cover_image=true&theme=default&show_offline=false&background_color=1A1A1A&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</div>
 
+<br>
+
+<h3 align="center">Meu Arsenal Tecnológico 🛠️</h3>
+<table style="border: none; width: 100%;">
+  <tr style="border: none;">
+    <td width="75%" align="right" valign="middle" style="border: none;">
+      <p><i>Construído para evitar o trabalho manual e focar na arquitetura.</i></p>
+      <div align="right">
+        <img src="https://img.shields.io/badge/HTML5-FBC359?style=flat-square&logo=html5&logoColor=222222">
+        <img src="https://img.shields.io/badge/Next.js-FBC359?style=flat-square&logo=next.js&logoColor=222222">
+        <img src="https://img.shields.io/badge/React-FBC359?style=flat-square&logo=react&logoColor=222222">
+        <img src="https://img.shields.io/badge/Tailwind-FBC359?style=flat-square&logo=tailwindcss&logoColor=222222">
+        <br>
+        <img src="https://img.shields.io/badge/Node.js-73A642?style=flat-square&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-73A642?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/Git-73A642?style=flat-square&logo=git&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-4B848A?style=flat-square&logo=postgresql&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-4B848A?style=flat-square&logo=mongodb&logoColor=white">
+      </div>
+    </td>
+    <td width="25%" align="center" valign="middle" style="border: none;">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="110" alt="Laptop" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h3 align="center">📇 Connect</h3>
+<div align="center">
+  <a href="https://github.com/nunoguerra1" target="_blank"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nunomguerra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=4B848A"></a>
+  <a href="mailto:nuno1assis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1A1A1A?style=for-the-badge&logo=gmail&logoColor=FBC359"></a>
+  <a href="https://t.me/nunoguerra1" target="_blank"><img src="https://img.shields.io/badge/Telegram-1A1A1A?style=for-the-badge&logo=telegram&logoColor=73A642"></a>
+</div>
+
+<br><br>
+
+<blockquote>
+  <p><i>"O código nunca está finalizado. Ele apenas se torna um pouco menos terrível com o tempo."</i></p>
+  <p>Cada commit que eu faço é, essencialmente, um pequeno pedido de desculpas desesperado para o meu eu do futuro. Um dia voltarei a essa base de código, olharei para o macarrão que escrevi e me perguntarei quem me deixou chegar perto de um teclado.</p>
+</blockquote>
+
+<br><br>
+
+<h3 align="center">📈 Contribution Graph</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nunoguerra1&bg_color=00000000&color=FBC359&line=73A642&point=4B848A&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
