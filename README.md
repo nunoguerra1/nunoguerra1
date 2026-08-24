@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=FBC359,73A642,4B848A&height=220&section=header&text=Nuno%20Guerra&fontSize=65&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Tech%20Lead%20%40%20Unect%20Jr.&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="Banner Nuno Guerra" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=FBC359,73A642,4B848A&height=220&section=header&text=Nuno%20Guerra&fontSize=65&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Gerente%20Dev%20%40%20Unect%20Jr.&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="Banner Nuno Guerra" />
 </div>
 
 <div align="center">
